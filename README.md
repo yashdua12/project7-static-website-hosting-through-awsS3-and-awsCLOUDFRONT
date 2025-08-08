@@ -5,5 +5,6 @@ this repo includes terraform files that creates s3 bucket and cloudfront service
 3. there is a tasty-master dir in repo that includes html,css,js source coode of the static website
 4. there is a final-output dir in repo that includes jpg images of websites and a output of outputs that includes url of webiste and some more outputs
 5. i have added breif comments in all terraform files that tells which block of code does what
-6. if you fail to create all the three services then create a issue in this repo i will respond
-7. thanku
+6. after you have cretaed all services then in output you will see a website_url paste that on browser and you will be able to see your website
+7. if you fail to create all the three services then create a issue in this repo i will respond
+8. thanku
